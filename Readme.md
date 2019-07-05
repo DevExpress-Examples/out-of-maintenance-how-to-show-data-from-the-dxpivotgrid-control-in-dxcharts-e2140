@@ -9,6 +9,6 @@
 
 <p>This example shows how to visualize data displayed by the DXPivotGrid using the DXCharts Suite.</p>
 
-<br/>
+> Refer to the [How to Visualize PivotGrid Data with the ChartControl](https://github.com/DevExpress-Examples/how-to-visualize-pivot-grid-data-via-the-dxcharts-suite-e2913) example for more recent version.
 
 

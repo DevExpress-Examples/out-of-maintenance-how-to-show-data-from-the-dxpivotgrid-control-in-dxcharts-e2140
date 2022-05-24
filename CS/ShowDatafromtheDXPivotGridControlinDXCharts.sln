@@ -1,5 +1,8 @@
-Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2012
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32510.428
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShowDatafromtheDXPivotGridControlinDXCharts", "ShowDatafromtheDXPivotGridControlinDXCharts\ShowDatafromtheDXPivotGridControlinDXCharts.csproj", "{D94BECD9-7E4C-4BDE-B22C-6F8426CA91DA}"
 EndProject
 Global
@@ -15,5 +18,8 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BBAF5F2E-6E0F-4377-93EF-F3E1136F9865}
 	EndGlobalSection
 EndGlobal
